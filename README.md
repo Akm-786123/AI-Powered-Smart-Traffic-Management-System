@@ -120,11 +120,6 @@ Pull requests are welcome! Feel free to **improve the simulation logic** or **ad
 
 ---
 
-## 📧 **Contact**  
-For questions or contributions, contact **parinith99@gmail.com** or open an issue on GitHub.  
-
----
-
 🚦 **Optimizing Traffic, One Signal at a Time!** 🚦  
 
 ---
